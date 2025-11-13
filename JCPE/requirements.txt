@@ -2,7 +2,7 @@
 attrs==25.3.0
 certifi==2025.8.3
 cffi==2.0.0
-Django==5.2.6
+Django==5.1.2
 djangorestframework==3.16.1
 h11==0.16.0
 idna==3.10
@@ -22,4 +22,5 @@ websocket-client==1.8.0
 wsproto==1.2.0
 gunicorn
 Pillow
+
 
